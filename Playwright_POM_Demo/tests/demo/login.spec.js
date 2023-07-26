@@ -3,12 +3,8 @@ import {
   expect
 } from '@playwright/test';
 import {  LoginPage} from '../../pages/Login'
-
 import {AddUser } from  '../../pages/AddUser'
-
-
 import  {generateRandomCharacters }  from '../utils/RandomGenerator.js'
-
 const dataset = JSON.parse(JSON.stringify(require("../utils/placeholderTestData.json")));
 test('Login Page', async ({ page}, testInfo) => {
 
@@ -26,7 +22,6 @@ test('Login Page', async ({ page}, testInfo) => {
     contentType: "image/png",
   })
  
-
 
 });
 
