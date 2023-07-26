@@ -1,0 +1,25 @@
+
+
+[
+{
+    "FirstName": "FName1",
+    "LastName": "LName1",
+    "UserName": "User",
+    "Password": "Pass1",
+    "Email":  "admin@mail.com",
+    "Mobile":"082555"
+},
+{
+    "FirstName": "FName2",
+    "LastName": "LName1",
+    "UserName": "User",
+    "Password": "Pass2",
+    "Email":  "cusomter@mail.com",
+    "Mobile":"083444"
+
+}
+
+
+]
+
+
